@@ -1,0 +1,16 @@
+[
+  {
+    "id": 0,
+    "name": "Project name",
+    "featured": false,
+    "short_description": "Short description",
+    "description": "Long description",
+    "url": "https://example.org/",
+    "from": "1970-01-01",
+    "to": "1970-12-31",
+    "technologies": [
+      { "name": "Malbolge", "color": "#4a412a" },
+      { "name": "Whitespace", "color": "#fff" }
+    ]
+  }
+]
